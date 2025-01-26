@@ -27,30 +27,7 @@ class KnownDRMIE(UnsupportedInfoExtractor):
     """
 
     URLS = (
-        r'play\.hbomax\.com',
-        r'channel(?:4|5)\.com',
-        r'peacocktv\.com',
-        r'(?:[\w\.]+\.)?disneyplus\.com',
-        r'open\.spotify\.com/(?:track|playlist|album|artist)',
-        r'tvnz\.co\.nz',
-        r'oneplus\.ch',
-        r'artstation\.com/learning/courses',
-        r'philo\.com',
-        r'(?:[\w\.]+\.)?mech-plus\.com',
-        r'aha\.video',
-        r'mubi\.com',
-        r'vootkids\.com',
-        r'nowtv\.it/watch',
-        r'tv\.apple\.com',
-        r'primevideo\.com',
-        r'hulu\.com',
-        r'resource\.inkryptvideos\.com',
-        r'joyn\.de',
-        r'amazon\.(?:\w{2}\.)?\w+/gp/video',
-        r'music\.amazon\.(?:\w{2}\.)?\w+',
-        r'(?:watch|front)\.njpwworld\.com',
-        r'qub\.ca/vrai',
-        r'(?:beta\.)?crunchyroll\.com',
+        r'urmomlmaooooooooooooooooooooooooo\.com',
     )
 
     _TESTS = [{
@@ -178,26 +155,7 @@ class KnownPiracyIE(UnsupportedInfoExtractor):
     """
 
     URLS = (
-        r'dood\.(?:to|watch|so|pm|wf|re)',
-        # Sites youtube-dl supports, but we won't
-        r'viewsb\.com',
-        r'filemoon\.sx',
-        r'hentai\.animestigma\.com',
-        r'thisav\.com',
-        r'gounlimited\.to',
-        r'highstream\.tv',
-        r'uqload\.com',
-        r'vedbam\.xyz',
-        r'vadbam\.net'
-        r'vidlo\.us',
-        r'wolfstream\.tv',
-        r'xvideosharing\.com',
-        r'(?:\w+\.)?viidshar\.com',
-        r'sxyprn\.com',
-        r'jable\.tv',
-        r'91porn\.com',
-        r'einthusan\.(?:tv|com|ca)',
-        r'yourupload\.com',
+        r'urmomlmaooooooooooooooooooooooooo\.com',
     )
 
     _TESTS = [{
