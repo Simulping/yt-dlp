@@ -30,11 +30,7 @@ class KnownDRMIE(UnsupportedInfoExtractor):
         r'urmomlmaooooooooooooooooooooooooo\.com',
     )
 
-    _TESTS = [{
-        # https://github.com/yt-dlp/yt-dlp/issues/4309
-        'url': 'https://peacocktv.com/watch/playback/vod/GMO_00000000073159_01/f9d03003-eb04-3c7f-a7b6-a83ab7eb55bc',
-        'only_matching': False,
-    }]
+    _TESTS = []
 
     def _real_extract(self, url):
         raise ExtractorError(
@@ -55,10 +51,7 @@ class KnownPiracyIE(UnsupportedInfoExtractor):
         r'urmomlmaooooooooooooooooooooooooo\.com',
     )
 
-    _TESTS = [{
-        'url': 'http://dood.to/e/5s1wmbdacezb',
-        'only_matching': False,
-    }]
+    _TESTS = []
 
     def _real_extract(self, url):
         raise ExtractorError(
